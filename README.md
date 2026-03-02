@@ -1,4 +1,4 @@
-# Graduation_Project_Team_2
+# Graduation_Project_Traffic Safety and Accidents Observatory in Egypt
 ##  Team Members
 * **Mohamed Sayed Said**
 * **Ahmed Fathy Kamal**
